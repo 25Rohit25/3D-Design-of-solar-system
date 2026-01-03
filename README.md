@@ -62,6 +62,8 @@ The output will be in the `dist` folder.
 - **Tailwind CSS**: Styling.
 - **Zustand**: State management.
 - **Framer Motion**: UI Animations.
+- YOLO badge test
+
 
 ## License
 
